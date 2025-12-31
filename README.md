@@ -22,15 +22,15 @@ A lightweight database client package for Laravel that provides a Blade UI to ac
 composer require rafidalridwan/laravel-db-client
 ```
 
-2. The service provider will be auto-discovered by Laravel (via composer.json)
+The package is auto-discovered by Laravel.
 
-3. Publish the assets (optional, if you want to customize):
+2. Publish assets:
 
 ```bash
 php artisan vendor:publish --tag=dbclient
 ```
 
-## Configuration
+<!-- ## Configuration
 
 Edit `config/dbclient.php` to configure:
 
@@ -46,7 +46,7 @@ return [
         'db:seed',
     ],
 ];
-```
+``` -->
 
 ## Usage
 
