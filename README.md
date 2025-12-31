@@ -2,7 +2,7 @@
 
 A lightweight database client package for Laravel that provides a Blade UI to access your connected database, view tables, manage data, and run SQL queries.
 
-**Repository:** [RafidAlRidwan/laravel-db-client](https://github.com/rafidalridwan/laravel-db-client)
+**Repository:** [rafidalridwan/laravel-db-client](https://github.com/rafidalridwan/laravel-db-client)
 
 ## Features
 
