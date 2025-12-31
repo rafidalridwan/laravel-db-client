@@ -90,6 +90,27 @@ return [
 - `GET /dbclient/artisan` - Artisan commands interface
 - `POST /dbclient/artisan/run` - Run Artisan command
 
+## 📸 Screenshots
+
+### 🗃️ Database Overview
+![Database Overview](screenshots/database-info.png)
+
+### 📊 Tables Overview
+![Tables Overview](screenshots/tables.png)
+
+### 🔍 Table Data View
+![Table Data View](screenshots/table-view.png)
+
+### 🏗️ Table Structure
+![Table Structure](screenshots/table-info.png)
+
+### 💻 SQL Query Runner
+![SQL Query Runner](screenshots/sql-runner.png)
+
+### 🛠 Artisan Commands
+![Artisan Commands](screenshots/artisan.png)
+
+
 ## Requirements
 
 - PHP >= 8.1
