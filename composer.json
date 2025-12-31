@@ -1,5 +1,5 @@
 {
-    "name": "RafidAlRidwan/laravel-db-client",
+    "name": "rafidalridwan/laravel-db-client",
     "description": "Lightweight database client for Laravel",
     "type": "library",
     "license": "MIT",
@@ -32,9 +32,9 @@
         "php": ">=8.1",
         "illuminate/support": "^10|^11"
     },
-    "homepage": "https://github.com/RafidAlRidwan/laravel-db-client",
+    "homepage": "https://github.com/rafidalridwan/laravel-db-client",
     "support": {
-        "source": "https://github.com/RafidAlRidwan/laravel-db-client",
-        "issues": "https://github.com/RafidAlRidwan/laravel-db-client/issues"
+        "source": "https://github.com/rafidalridwan/laravel-db-client",
+        "issues": "https://github.com/rafidalridwan/laravel-db-client/issues"
     }
 }
