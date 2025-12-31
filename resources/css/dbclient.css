@@ -1,0 +1,20 @@
+/* DB Client Styles */
+/* Additional styles can be added here if needed */
+/* Most styles are inline in the layout for simplicity */
+
+.dbclient-container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.dbclient-loading {
+  text-align: center;
+  padding: 40px;
+  color: #6b7280;
+}
+
+.dbclient-empty {
+  text-align: center;
+  padding: 40px;
+  color: #9ca3af;
+}

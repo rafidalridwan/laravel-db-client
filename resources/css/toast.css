@@ -1,0 +1,85 @@
+.hs-toast-fixed-top {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000000;
+}
+
+.hs-toast-wrapper {
+  margin: 0;
+  max-width: 400px;
+  padding: 0;
+}
+
+.hs-toast {
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  background: #ffffff;
+  padding: 16px 20px;
+  max-width: 400px;
+  position: relative;
+  border-left: 4px solid;
+}
+
+.hs-toast-inner {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.hs-toast-icons {
+  flex: none;
+  display: flex;
+  align-items: center;
+}
+
+.hs-toast-msg {
+  color: #374151;
+  line-height: 1.5;
+  flex: 1;
+  font-size: 14px;
+  padding-top: 2px;
+}
+
+.hs-toast-action {
+  flex: none;
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+.hs-close {
+  border: none;
+  background: none;
+  color: #6b7280;
+  outline: none;
+  padding: 0;
+  font-size: 18px;
+  cursor: pointer;
+  line-height: 1;
+  transition: color 0.2s;
+}
+
+.hs-close:hover {
+  color: #374151;
+}
+
+.hs-theme-error {
+  border-left-color: #dc2626;
+  background: #fef2f2;
+}
+
+.hs-theme-success {
+  border-left-color: #16a34a;
+  background: #f0fdf4;
+}
+
+.hs-theme-warning {
+  border-left-color: #f59e0b;
+  background: #fffbeb;
+}
+
+.hs-theme-info {
+  border-left-color: #2563eb;
+  background: #eff6ff;
+}
