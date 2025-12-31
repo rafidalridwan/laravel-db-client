@@ -91,9 +91,9 @@ return [
 - `POST /dbclient/artisan/run` - Run Artisan command
 
 ## 📸 Screenshots
-
+<!-- 
 ### 🗃️ Database Overview
-![Database Overview](screenshots/database-info.png)
+![Database Overview](screenshots/database-info.png) -->
 
 ### 📊 Tables Overview
 ![Tables Overview](screenshots/tables.png)
